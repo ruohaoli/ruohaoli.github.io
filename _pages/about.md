@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+
+
 Hello!! I'm a PhD student in the Hong Kong University of Science and Technology, information hub, CMA. My research interests including Human-AI Collaboration, public health, and the application of computer vision. I'm honored to be supervised by [Prof.Mingming Fan](https://www.mingmingfan.com/) and [Prof. Ge Lin KAN](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/KAN-GeLin/gelin). In the past year(Sep.2023 - May.2024) I was a master student in University of Pennsylvania, majoring in smart cities. I got my Bachelor's Degree in Zhejiang University in 2023, supervised by [Prof. Liangsheng Zhang](https://person.zju.edu.cn/0020046) and [Dr. Yuting Xie](https://person.zju.edu.cn/xieyuting).
 
 
