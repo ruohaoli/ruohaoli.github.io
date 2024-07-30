@@ -1,14 +1,14 @@
 ---
-title: "Teaching Assistant in MUSA 650"
+title: "Teaching experience 1"
 collection: teaching
-type: "Graduate Course"
+type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University of Pennsylvania"
-date: Spring, 2024
-location: "Philadelphia, USA"
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
-Teaching Assistant in "Machine Learning in Remote Sensing".
+This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
