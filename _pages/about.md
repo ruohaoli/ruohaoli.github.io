@@ -11,7 +11,10 @@ Hello!! I'm a PhD student in the Hong Kong University of Science and Technology,
 
 My past study includes spatial-temporal data (feel free to check my portfolio), botany(bio-info and horticulture), and Deep Learning for Remote Sensing (recently I'm trying to build a autonomous system to predict the hurricane damage in Puerto Rico based on optimized YOLOv9).
 
-Here are some interesting Data-Visulization I've done before.
-[Crime Visulization in Chicago](/images/P1.png)
+Some interesting Data-Visulization I've done before:
 
+![Crime Visulization in Chicago](/images/P1.png)
 
+![Transportation Time-Series Data in Chicago](/images/P2.png)
+
+![Transportation Lag in California](/images/P2.png)
