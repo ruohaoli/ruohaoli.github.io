@@ -13,8 +13,14 @@ My past study includes spatial-temporal data (feel free to check my portfolio), 
 
 Some interesting Data-Visulization I've done before:
 
+Crime Visulization in Chicago
+
 ![Crime Visulization in Chicago](/images/P1.png)
+
+Transportation Time-Series Data in Chicago
 
 ![Transportation Time-Series Data in Chicago](/images/P2.png)
 
-![Transportation Lag in California](/images/P2.png)
+Transportation Lag in California
+
+![Transportation Lag in California](/images/P3.png)
