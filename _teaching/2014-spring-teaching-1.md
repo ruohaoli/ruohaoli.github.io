@@ -7,4 +7,3 @@ venue: "University of Pennsylvania"
 date: 2024-01-15
 location: "Philadelphia, USA"
 ---
-
