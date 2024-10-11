@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D Student in Hong Kong University of Science and Technology, Computational Media  &nbsp;&nbsp;&nbsp;&nbsp; 2024-2028 (expected)
-* M.S. in University of Pennsylvania (quit), Smart Cities &nbsp;&nbsp;&nbsp;&nbsp; 2023-2024
-* B.S. in Zhejiang University &nbsp;&nbsp;&nbsp;&nbsp; 2019-2023
+* M.S. in University of Pennsylvania (quit for PhD), Smart Cities &nbsp;&nbsp;&nbsp;&nbsp;GPA: 3.7/4.0 &nbsp;&nbsp;&nbsp;&nbsp; 2023-2024
+* B.S. in Zhejiang University &nbsp;&nbsp;&nbsp;&nbsp;GPA: 3.6/4.0 &nbsp;&nbsp;&nbsp;&nbsp; 2019-2023
 
 Research Experience
 ======
