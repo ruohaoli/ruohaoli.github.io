@@ -13,9 +13,9 @@ redirect_from:
 
 Hello!! I'm a first-year PhD student in the Hong Kong University of Science and Technology, information hub. My research interests including:
 
-- **3D Generation and Reconstruction**
-- **Large Language Models (particularly in the context of Human-AI Collaboration and AI4SCI)**
-- **Multimodal Model Design**
+- 3D Generation and Reconstruction
+- Large Language Models (Particularly in the context of Human-AI Collaboration and AI4SCI)
+- Multimodal Model Design
 
  I'm honored to be supervised by [Prof.Mingming Fan](https://www.mingmingfan.com/) and [Prof. Ge Lin KAN](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/KAN-GeLin/gelin). In the past year(Sep.2023 - May.2024) I was a master student in University of Pennsylvania, majoring in smart cities. I got my Bachelor's Degree in Zhejiang University in 2023, supervised by [Prof. Liangsheng Zhang](https://person.zju.edu.cn/0020046) and [Dr. Yuting Xie](https://person.zju.edu.cn/xieyuting). 
 
