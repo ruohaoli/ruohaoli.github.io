@@ -1,5 +1,8 @@
 ---
-layout: none
+layout: single
+title: "CV - Ruohao Li"
 permalink: /cv/
-redirect_to: files\CV_RuohaoLi.pdf
+author_profile: true
+author: ruohaoli  
+classes: wide
 ---

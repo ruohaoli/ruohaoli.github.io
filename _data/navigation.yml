@@ -7,7 +7,7 @@ main:
     url: /portfolio/
         
   - title: "CV"
-    url: /cv/
+    url: files\CV_RuohaoLi.pdf
 
   - title: "Talks"
     url: /talks/    
